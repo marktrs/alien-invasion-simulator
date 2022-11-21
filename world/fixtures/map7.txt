@@ -1,0 +1,2 @@
+Foo​ ​north=Bar​ ​west=Baz​ ​south=Foo​
+Bar​ ​south=Foo​ ​west=Bee
